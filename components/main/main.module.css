@@ -8,3 +8,13 @@
     width: 100%;
     height: 100%;
 }
+
+.hero__a {
+    border-bottom: 2px solid white;
+    padding-bottom: var(--spacing-01);
+    display: inline-block;
+}
+
+.hero__a:hover {
+    opacity: .6;
+}

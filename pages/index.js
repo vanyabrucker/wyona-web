@@ -26,19 +26,6 @@ export default function Home({ allPostsData }) {
         </Head>
         <Header color={"black"}/>
         <Main/>
-          <section>
-              <ul>
-                  {allPostsData.map(({ id, date, title }) => (
-                      <li key={id}>
-                          {title}
-                          <br />
-                          {id}
-                          <br />
-                          {date}
-                      </li>
-                  ))}
-              </ul>
-          </section>
         <Footer/>
       </>
   )

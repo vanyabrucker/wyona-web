@@ -14,8 +14,8 @@ export function Footer() {
                     </p>
                 </div>
                 <section className="margin--bottom--layout-05 margin--top--layout-05">
-                    <p className="color--grey-60">Zurich, Switzerland</p>
-                    <Link href="/privacy">
+                    <p className="color--grey-60">Fritz-Fleiner Weg<br/>Zurich, Switzerland</p>
+                    <Link href="/">
                         <a className="color--white hover--opacity margin--top--spacing-06">Privacy Policy</a>
                     </Link>
                 </section>

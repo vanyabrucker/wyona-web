@@ -160,6 +160,10 @@ hr {
   cursor: pointer;
 }
 
+.opacity--light {
+  opacity: .8;
+}
+
 .bx--grid {
   width: 100%;
   max-width: var(--break-l);
