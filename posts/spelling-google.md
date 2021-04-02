@@ -1,6 +1,6 @@
 ---
 title: 'The ABCs of spelling in Google Search'
-date: 'December 20, 2020'
+date: '2021-03-05'
 ---
 
 Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.

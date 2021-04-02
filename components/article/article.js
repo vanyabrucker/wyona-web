@@ -1,11 +1,13 @@
+import Date from "../date/date";
+
 export default function ArticleSection(props) {
     return(
-    <main className="padding--top--header">
-        <article className="margin--top--layout-05 flex-direction--column flex--align-items--center">
+    <main className="padding--top--header margin--top--layout-06 margin--bottom--layout-06">
+        <article className="flex-direction--column flex--align-items--center">
             <div className="bx--grid flex-direction--column flex--align-items--center">
-                <p className="col-7 margin--top--spacing-05 font-weight--500 color--grey-60">{props.category}</p>
-                <h1 className="margin--top--spacing-04 expressive-heading-05 font-weight--500 font-family--serif col-7">{props.title}</h1>
-                <p className="col-7 font-weight--500 margin--top--spacing-06 font-family--serif">{props.subtitle}</p>
+                <h1 className="expressive-heading-05 col-7">{props.title}</h1>
+                <p className="col-7 margin--top--spacing-05 font-weight--500 color--grey-60"><Date dateString={props.date} ></Date></p>
+                <div dangerouslySetInnerHTML={props.text} className="col-7 margin--top--spacing-07"/>
             </div>
         </article>
     </main>
