@@ -16,7 +16,7 @@ export function Header(props) {
                 </Link>
 
                 <nav className="flex flex--align-items--center">
-                    <Link href="mailto:contact@wyona.com">
+                    <Link href="mailto:contact@wyona.com?subject=Katie">
                         <a className="hover--opacity heading--03 margin--left--layout-05 font-weight--500">Contact</a>
                     </Link>
                     <Link href="/investors">
