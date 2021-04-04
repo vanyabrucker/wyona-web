@@ -1,16 +1,18 @@
 ---
-title: 'Seed Round'
+title: 'MVP Development started'
 date: '2021-04-01'
 ---
 
-We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
+The prototype of Katie is working successfully. We have now started the development of Katie as Minimum Viable Product.
 <br><br/>
-You can use Static Generation for many types of pages, including:
+For the next three months we are focusing on:<br><br/>
 
-- Marketing pages
-- Blog posts
-- E-commerce product listings
-- Help and documentation<br><br/>
+- Quality of answers
+- Ease of use (UI/UX)
+- Design
+- Full automation
+- Scalability and performance
+- Multilingualism<br><br/>
 
 You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
 <br><br/>
