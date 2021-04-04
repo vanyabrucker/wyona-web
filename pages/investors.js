@@ -31,7 +31,15 @@ export default function Investors({ allPostsData }) {
                 <section className="margin--top--layout-06 flex-direction--column flex--align-items--center">
                     <div className="bx--grid flex-direction--column">
                         <h1 className="margin--top--spacing-04 expressive-heading-05">Investor Relations</h1>
-                        <p className="margin--top--spacing-06 text-length--02">TODO</p>
+                        <p className="margin--top--spacing-06 text-length--02">
+                        The evolution of human communication / languages helps humans to cooperate collectively, which is crucial for the evolution of humans itself.
+                        </p>
+                        <p className="margin--top--spacing-06 text-length--02">
+                        Human communication is not perfect though, for example does not always scale well, can cause misunderstandings and might contain hidden knowledge.
+                        </p>
+                        <p className="margin--top--spacing-06 text-length--02">
+We develop Katie in order to support human communication.
+                        </p>
                         <h2 className={"expressive-heading-04 margin--top--layout-05"}>Latest News</h2>
                         <ul className="ul--no-styles flex flex-wrap--wrap flex-direction--column margin--top--spacing-06">
                             {allPostsData.map(({ id, date, title }) => (
