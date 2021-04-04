@@ -9,7 +9,7 @@ export function Footer() {
                 <div className="margin--top--layout-05">
                     <p className="expressive-heading-05 color--white">
                       <span className="a--internal hover--opacity">
-                        <a href="mailto:contact@wyona.com?subject=Katie" className="color--white">Contact Us</a>
+                        <a href="mailto:contact@wyona.com?subject=Katie" className="color--white">Contact us</a>
                       </span>
                     </p>
                 </div>
