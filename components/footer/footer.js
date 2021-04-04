@@ -8,10 +8,8 @@ export function Footer() {
             <div className="bx--grid flex flex--justify-content--space-between flex-direction--column">
                 <div className="margin--top--layout-05">
                     <p className="expressive-heading-05 color--white">
-                      <span>Any questions?</span>
-                      &#160;
                       <span className="a--internal hover--opacity">
-                        <a href="mailto:contact@wyona.com?subject=Katie" className="color--white">Contact us ...</a>
+                        <a href="mailto:contact@wyona.com?subject=Katie" className="color--white">Contact Us</a>
                       </span>
                     </p>
                 </div>
