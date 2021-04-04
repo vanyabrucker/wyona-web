@@ -8,8 +8,7 @@ export default function Custom404() {
             <main className="padding--top--header margin--top--layout-06 margin--bottom--layout-06">
                 <article className="flex-direction--column flex--align-items--center">
                     <div className="bx--grid flex-direction--column flex--align-items--center">
-                        <h1 className="expressive-heading-05 col-7">404 – Don't know where you are? We neither.</h1>
-                        <img className="margin--top--spacing-07" src={"/media/homer.gif"} alt={"homer withdrawing into the bushes"}/>
+                        <h1 className="expressive-heading-05 col-7">Page not found</h1>
                     </div>
                 </article>
             </main>
