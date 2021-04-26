@@ -8,7 +8,7 @@ export default function PostItem(props) {
             <Link href={"/posts/" + props.id}>
                 <a>
                     <div className={"line-height--zero"}>
-                        <p className="color--grey-60 col-3 display--inline-block"><Date dateString={props.date} ></Date></p>
+                        <p className="color--grey-60 col-3 display--inline-block">{props.subtitle}<Date dateString={props.date} ></Date></p>
                         <h3 className="heading--03 display--inline-block">{props.title}</h3>
                     </div>
                 </a>
