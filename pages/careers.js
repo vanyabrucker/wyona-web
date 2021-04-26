@@ -47,10 +47,9 @@ export default function Investors({ allPostsData }) {
 
                         <h2 className={"expressive-heading-04 margin--top--layout-05"}>Open positions</h2>
                         <ul className="ul--no-styles flex flex-wrap--wrap flex-direction--column margin--top--spacing-06">
-                            <PostItem id={"nlp-nlu-research-software-engineer"} subtitle={"Remote"} title={"NLP / NLU Research Software Engineer"}></PostItem>
+                            <PostItem id={"nlp-nlu-research-software-engineer"} subtitle={"Full Time"} title={"NLP / NLU Research Software Engineer"}></PostItem>
                             <PostItem id={"ui-designer"} subtitle={"Remote"} title={"User Interface Designer"}></PostItem>
                             <PostItem id={"ux-designer"} subtitle={"Remote"} title={"User Experience Designer"}></PostItem>
-                            <PostItem id={"marketing-specialist"} subtitle={"Remote"} title={"Marketing Specialist"}></PostItem>
                         </ul>
                     </div>
                 </section>
