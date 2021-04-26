@@ -49,7 +49,6 @@ export default function Investors({ allPostsData }) {
                         <ul className="ul--no-styles flex flex-wrap--wrap flex-direction--column margin--top--spacing-06">
                             <PostItem id={"nlp-nlu-research-software-engineer"} subtitle={"Full Time"} title={"NLP / NLU Research Software Engineer"}></PostItem>
                             <PostItem id={"ui-designer"} subtitle={"Remote"} title={"User Interface Designer"}></PostItem>
-                            <PostItem id={"ux-designer"} subtitle={"Remote"} title={"User Experience Designer"}></PostItem>
                         </ul>
                     </div>
                 </section>
