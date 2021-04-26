@@ -24,7 +24,7 @@ export default function Investors({ allPostsData }) {
             <Head>
                 <GlobalHead/>
                 <title>Careers – Wyona</title>
-                <meta name="description" content="Wyona investors page" />
+                <meta name="description" content="Wyona careers / hiring / jobs page" />
             </Head>
             <Header color={"white"}/>
             <main className="padding--top--header margin--bottom--layout-06">
@@ -32,11 +32,19 @@ export default function Investors({ allPostsData }) {
                     <div className="bx--grid flex-direction--column">
                         <h1 className="margin--top--spacing-04 expressive-heading-05">Join Wyona</h1>
                         <p className="margin--top--spacing-06 text-length--02">
-                            We’re hiring talented people in a variety of roles across the spectrum to join our team in Zurich or remotely.
+                            Together, we are developing <span><a className={"a--internal"} href="https://ukatie.com">Katie</a></span>. Our ambition is to develop a QnA / Knowledge management bot which goes beyond providing intuitive answers to questions. Join and help us raise the standards of natural language processing and understanding.
                         </p>
                         <p className="margin--top--spacing-06 text-length--02">
-                            Get in touch at <span><a className={"a--internal"} href="mailto:contact@wyona.com?subject=Career">contact@wyona.com</a></span>.
+                          Hiring Process:
                         </p>
+                        <br/>
+                        <ul>
+                          <li>Submit your application and chat with us about your values, abilities and skills</li>
+                          <li>Two paid take-home projects (1. Follow a recipe, 2. Create your own recipe)</li>
+                          <li>Meet the team</li>
+                          <li>Work together</li>
+                        </ul>
+
                         <h2 className={"expressive-heading-04 margin--top--layout-05"}>Open positions</h2>
                         <ul className="ul--no-styles flex flex-wrap--wrap flex-direction--column margin--top--spacing-06">
                             <PostItem id={"ui-designer"} subtitle={"Remote"} title={"User Interface Designer"}></PostItem>
