@@ -34,11 +34,14 @@ export default function Investors({ allPostsData }) {
                         <p className="margin--top--spacing-06 text-length--02">
                             We’re hiring talented people in a variety of roles across the spectrum to join our team in Zurich or remotely.
                         </p>
+                        <p className="margin--top--spacing-06 text-length--02">
+                            Get in touch at <span><a className={"a--internal"} href="mailto:contact@wyona.com?subject=Career">contact@wyona.com</a></span>.
+                        </p>
                         <h2 className={"expressive-heading-04 margin--top--layout-05"}>Open positions</h2>
                         <ul className="ul--no-styles flex flex-wrap--wrap flex-direction--column margin--top--spacing-06">
                             <PostItem id={"ui-designer"} subtitle={"Remote"} title={"User Interface Designer"}></PostItem>
                             <PostItem id={"ux-designer"} subtitle={"Remote"} title={"User Experience Designer"}></PostItem>
-                            <PostItem id={"marketing-specialist"} subtitle={"Remote"} title={"Marketing specialist"}></PostItem>
+                            <PostItem id={"marketing-specialist"} subtitle={"Remote"} title={"Marketing Specialist"}></PostItem>
                         </ul>
                     </div>
                 </section>

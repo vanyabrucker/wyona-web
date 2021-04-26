@@ -17,13 +17,13 @@ export function Header(props) {
 
                 <nav className="flex flex--align-items--center">
                     <Link href="mailto:contact@wyona.com?subject=Katie">
-                        <a className="hover--opacity heading--03 margin--left--layout-05 font-weight--500">Contact</a>
+                        <a className="hover--opacity heading--03 margin--right--spacing-07 font-weight--500">Contact</a>
                     </Link>
                     <Link href="/careers">
-                        <a className="hover--opacity heading--03 margin--left--layout-05 font-weight--500">Careers</a>
+                        <a className="hover--opacity heading--03 margin--right--spacing-07 font-weight--500">Careers</a>
                     </Link>
                     <Link href="/investors">
-                        <a className="hover--opacity heading--03 margin--left--layout-05 font-weight--500">Investors</a>
+                        <a className="hover--opacity heading--03 font-weight--500">Investors</a>
                     </Link>
                 </nav>
             </div>

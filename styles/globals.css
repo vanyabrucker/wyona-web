@@ -143,6 +143,12 @@ a {
   border-bottom: 1px solid var(--grey-30);
   padding-bottom: var(--spacing-01);
   display: inline-block;
+  cursor: pointer;
+  transition: opacity 1s;
+}
+
+.a--internal:hover {
+  opacity: .6;
 }
 
 hr {
@@ -358,6 +364,10 @@ h3 {
 /* 32px */
 .margin--top--spacing-07 {
   margin-top: var(--spacing-07);
+}
+
+.margin--right--spacing-07 {
+  margin-right: var(--spacing-07);
 }
 
 .margin--top--layout-02 {
