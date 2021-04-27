@@ -49,7 +49,7 @@ export default function Investors({ allPostsData }) {
                         <ul className="ul--no-styles flex flex-wrap--wrap flex-direction--column margin--top--spacing-06">
                             <PostItem id={"nlp-nlu-research-software-engineer"} subtitle={"Full Time"} title={"NLP / NLU Research Software Engineer"}></PostItem>
                             <PostItem id={"ux-engineer"} subtitle={"Full Time"} title={"UX Engineer / Angular"}></PostItem>
-                            <PostItem id={"visual-designer"} subtitle={"Part Time"} title={"Visual / Graphic Designer"}></PostItem>
+                            <PostItem id={"visual-designer"} subtitle={"Part Time"} title={"Visual Designer"}></PostItem>
                         </ul>
                     </div>
                 </section>
