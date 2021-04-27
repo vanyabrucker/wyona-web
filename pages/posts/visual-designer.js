@@ -19,8 +19,8 @@ export default function JobDescription() {
                     <div className="bx--grid flex-direction--column flex--align-items--center">
                         <h1 className="expressive-heading-05 col-7">Visual / Graphic Designer</h1>
                         <div className="col-7 margin--top--spacing-07">
-                            <p>Our ambition is to develop a QnA / Knowledge management bot which goes beyond providing intuitive answers to questions.</p>
-                            <p className="margin--top--spacing-06">The Research Engineer role is responsible for building NLP / NLU systems that can perform previously impossible tasks or achieve unprecedented levels of performance. This requires good engineering (for example designing, implementing, and improving a massive-scale distributed machine learning system), writing bug-free machine learning code, and building the science behind the algorithms employed.</p>
+                            <p>Katie is a hybrid intelligence based bot, which means humans are continuously helping the AI to improve. Our ambition is to make the visual design of this feedback loop as beautiful as possible.</p>
+                            <p className="margin--top--spacing-06">The Visual Designer role is responsible for creating the front end of Katie that people love to see. Your visual design will inspire, engage and excite a global audience.</p>
                             <p className="margin--top--spacing-06 text-length--02">
                                 Apply at <span><a className={"a--internal"} href="mailto:contact@wyona.com?subject=Career">contact@wyona.com</a></span>.
                             </p>
