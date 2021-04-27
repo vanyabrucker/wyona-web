@@ -9,7 +9,7 @@ export function Main() {
                     <source src={"/media/hero-gradient.webp"} type="image/webp"/>
                     <source src={"/media/hero-gradient.jp2"} type="image/jp2"/>
                     <source src={"/media/hero-gradient.png"} type="image/png"/>
-                    <img className={styles.heroimage} src={"/media/hero-gradient.png"} alt={"blue and red background gradient image"}></img>
+                    <img className={styles.heroimage} src={"/media/hero-gradient.png"} alt={"blue and red background gradient image"}/>
                 </picture>
                 <div className={`padding--top--header bx--grid flex flex-wrap--wrap margin--top--layout-07 margin--bottom--layout-06 ${styles.hero}`}>
                     <h1 className="display-01 margin--top--spacing-06 color--white "><span className={"opacity--light"}>Hello, we're Wyona. We develop </span><span className={`a--internal hover--opacity ${styles.hero__a}`}>
