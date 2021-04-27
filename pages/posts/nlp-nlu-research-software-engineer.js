@@ -5,7 +5,7 @@ import ArticleSection from "../../components/article/article";
 import Footer from "../../components/footer/footer";
 import Date from "../../components/date/date";
 
-export default function UiDesigner() {
+export default function JobDescription() {
     return (
         <>
             <Head>
