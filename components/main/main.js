@@ -6,9 +6,9 @@ export function Main() {
         <main>
             <section style={{position: "relative", height: "100vh", width: "100%"}} className="flex--justify-content--center background-color--grey-100">
                 <picture>
-                    <source src={"/media/hero-gradient.webp"} type="image/webp"/>
-                    <source src={"/media/hero-gradient.jp2"} type="image/jp2"/>
-                    <source src={"/media/hero-gradient.png"} type="image/png"/>
+                    <source srcSet={"/media/hero-gradient.webp"} type="image/webp"/>
+                    <source srcSet={"/media/hero-gradient.jp2"} type="image/jp2"/>
+                    <source srcSet={"/media/hero-gradient.png"} type="image/png"/>
                     <img className={styles.heroimage} src={"/media/hero-gradient.png"} alt={"blue and red background gradient image"}/>
                 </picture>
                 <div className={`padding--top--header bx--grid flex flex-wrap--wrap margin--top--layout-07 margin--bottom--layout-06 ${styles.hero}`}>
