@@ -1,5 +1,6 @@
 .footer {
-    background-color: var(--black);
+    position: relative;
+    background-color: var(--grey-100);
     padding-top: var(--layout-02);
     padding-bottom: var(--layout-02);
 }
