@@ -49,11 +49,6 @@ export function Header(props) {
                                 <h1 className={"a--internal color--white margin--top--spacing-04"}>Contact</h1>
                             </Link>
                         </li>
-                        <li key={3}>
-                            <p className={"a--internal color--grey-50 margin--top--layout-04 minion"}>
-                                Privacy Policy
-                            </p>
-                        </li>
                     </ul>
                 </div>
             </nav>
