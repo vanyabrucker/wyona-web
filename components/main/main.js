@@ -9,7 +9,7 @@ export function Main() {
                 <div className={[styles["halo"], styles["c"]].join(" ")}/>
                 <div className={`${styles["link__container"]} bx--grid`}>
                     <div>
-                        <h1 className={"margin--top--spacing-03"}>Hello, we're Wyona. We develop Katie, a hybrid intelligence based bot, to make untapped knowledge accessible. <span className={styles.link}><a href={"https://ukatie.com"}>Learn more</a></span></h1>
+                        <h1 className={"margin--top--spacing-03"}>Hello, we're Wyona. We develop Katie, a hybrid intelligence based bot, to make untapped knowledge accessible. <span className={styles.link}><a href={"https://katie.qa"}>Learn more</a></span></h1>
                     </div>
                 </div>
             </div>

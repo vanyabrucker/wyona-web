@@ -21,7 +21,7 @@ export default function Contact() {
                         <h1 className="margin--top--spacing-06 text-length--02">
                             About
                         </h1>
-                        <p className="margin--top--spacing-06 body-text text-length--02 color--grey-90">Wyona was founded in the year 2000 to develop software. We are a passionate and experienced team headquartered in Zurich, Switzerland.<br/><br/>Today, our main product is <span><a className={"a--internal--body-text"} href={"https://ukatie.com/"}>Katie</a></span>, a hybrid intelligence based bot to support human communication and make untapped knowledge accessible.</p>
+                        <p className="margin--top--spacing-06 body-text text-length--02 color--grey-90">Wyona was founded in the year 2000 to develop software. We are a passionate and experienced team headquartered in Zurich, Switzerland.<br/><br/>Today, our main product is <span><a className={"a--internal--body-text"} href={"https://katie.qa/"}>Katie</a></span>, a hybrid intelligence based bot to support human communication and make untapped knowledge accessible.</p>
                     </div>
                 </section>
             </main>
