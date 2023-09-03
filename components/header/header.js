@@ -49,6 +49,11 @@ export function Header(props) {
                                 <h1 className={"a--internal color--white margin--top--spacing-04"}>Contact</h1>
                             </Link>
                         </li>
+                        <li key={1}>
+                            <Link href="/privacy-policy">
+                                <h1 className={"a--internal color--white margin--top--spacing-04"}>Privacy Policy</h1>
+                            </Link>
+                        </li>
                     </ul>
                 </div>
             </nav>

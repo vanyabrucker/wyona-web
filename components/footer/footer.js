@@ -16,9 +16,6 @@ export function Footer() {
                 <section className="margin--bottom--layout-05 margin--top--layout-05">
                     <p className="color--grey-60">Fritz-Fleiner-Weg 9<br/>8044 Zürich<br/> Switzerland</p>
                 </section>
-                <section className="margin--bottom--layout-05 margin--top--layout-05">
-                    <p className="color--grey-60"><a href="privacy-policy">Privacy Policy</a></p>
-                </section>
             </div>
         </footer>
     );
