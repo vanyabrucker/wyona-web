@@ -11,7 +11,7 @@ export default function Contact() {
             <Head>
                 <GlobalHead/>
                 <title>Contact – Wyona</title>
-                <meta name="description" content="Invest overview page" />
+                <meta name="description" content="Contact" />
             </Head>
             <Header color={"white"}/>
             <main className="padding--top--header margin--bottom--layout-06">
