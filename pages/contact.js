@@ -24,7 +24,7 @@ export default function Contact() {
                         <a href="mailto:contact@wyona.com" className="color--grey-90 a--internal">
                             <h1 className="margin--top--spacing-06 color--grey-90">contact@wyona.com</h1>
                         </a>
-                        <h1 className="margin--top--spacing-06 color--grey-90">Fritz-Fleiner-Weg 9<br/>8044 Zürich<br/>Switzerland</h1>
+                        <h1 className="margin--top--spacing-06 color--grey-90">Doldertal 19<br/>8032 Zürich<br/>Switzerland</h1>
                     </div>
                 </section>
             </main>

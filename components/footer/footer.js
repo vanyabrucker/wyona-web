@@ -14,7 +14,7 @@ export function Footer() {
                     </p>
                 </div>
                 <section className="margin--bottom--layout-05 margin--top--layout-05">
-                    <p className="color--grey-60">Fritz-Fleiner-Weg 9<br/>8044 Zürich<br/> Switzerland</p>
+                    <p className="color--grey-60">Doldertal 19<br/>8032 Zürich<br/> Switzerland</p>
                 </section>
             </div>
         </footer>

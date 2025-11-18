@@ -30,16 +30,16 @@ export default function PrivacyPolicy() {
 </p>
 <p className="margin--top--spacing-06"/>
 <p>Wyona AG</p>
-<p>Fritz-Fleiner-Weg 9</p>
-<p>8044 Zürich</p>
+<p>Doldertal 19</p>
+<p>8032 Zürich</p>
 <p>Switzerland</p>
 <p>E-mail: <a href="mailto:contact@wyona.com">contact@wyona.com</a></p>
 <p className="margin--top--spacing-06"><strong>II. Contact details of the data protection officer</strong></p>
 <p className="margin--top--spacing-06">Data Protection Officer (Datenschutzbeauftragter)</p>
 <p className="margin--top--spacing-06">Michael Wechner</p>
 <p>Wyona AG</p>
-<p>Fritz-Fleiner-Weg 9</p>
-<p>8044 Zürich</p>
+<p>Doldertal 19</p>
+<p>8032 Zürich</p>
 <p>Switzerland</p>
 <p>E-mail: <a href="mailto:michael.wechner@wyona.com">michael.wechner@wyona.com</a></p>
 <p className="margin--top--spacing-06"><strong>III. General provisions on data processing</strong></p>
