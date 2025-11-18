@@ -1,5 +1,9 @@
 import Head from 'next/head'
 
+/* https://prolitteris.ch/datenschutzerklaerung/ */
+/* https://www.taso.app/de/privacy */
+/* https://www.veeting.com/de/privacy */
+
 /* Component imports */
 import GlobalHead from "../components/head/globalhead";
 import Header from "../components/header/header";
